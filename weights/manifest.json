@@ -1,0 +1,20 @@
+{
+  "warp_initial_epoch100": {
+    "filename": "epoch001_model_warp.pth",
+    "bytes": 944077323,
+    "sha256": "577747ebb2cff81a255f47371fb8f82427991dbae069723d24eced022ab5c77f",
+    "included": false
+  },
+  "warp_L_seed2026_epoch140": {
+    "filename": "epoch140_model_.pth",
+    "bytes": 944112909,
+    "sha256": "835f3286794246820da60075affcca19035bc64817f690f4e24a9aa3eb78e44a",
+    "included": false
+  },
+  "fusion_used_for_L140": {
+    "filename": "epoch002_model_fusion.pth",
+    "bytes": 72243949,
+    "sha256": "9267da86395be0f985b0e919d808fd88c5e5358fd6295d622132d1e617a18287",
+    "included": false
+  }
+}

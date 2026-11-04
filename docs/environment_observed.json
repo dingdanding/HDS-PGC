@@ -1,0 +1,15 @@
+{
+  "python": "3.10.20",
+  "packages": {
+    "numpy": "2.2.6",
+    "opencv-python": "4.13.0.92",
+    "Pillow": "12.2.0",
+    "imageio": "2.37.3",
+    "tensorboard": "2.21.0",
+    "scipy": "1.15.3",
+    "scikit-image": "0.25.2",
+    "torch": "2.11.0+cu128",
+    "torchvision": "0.26.0+cu128"
+  },
+  "note": "Observed local environment; not a claim about historical server versions"
+}
