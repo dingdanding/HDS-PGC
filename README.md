@@ -10,10 +10,12 @@ additions act during Warp training; inference uses RGB pairs and the existing Fu
 This folder is a portable source package, not a dataset or trained-weight bundle.
 It is not the official DSFN repository. The upstream implementation is
 [DLUT-YRH/DSFN](https://github.com/DLUT-YRH/DSFN).
-Read [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) before public distribution:
-upstream redistribution permission has not been established. Do not interpret
-this package as granting a new license over upstream code. Private supervisor
-review is the intended initial use; resolve authorization before public release.
+The DSFN repository contact has confirmed by email that we may modify and
+publicly release this implementation with appropriate citation. We retain
+attribution to the original project and its authors. This permission does not
+establish an MIT or Apache license for the inherited code. See
+[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for source attribution and
+third-party terms.
 
 ## Installation
 

@@ -12,11 +12,15 @@ not claim authorship of the DSFN backbone or the general gradient-projection ide
 The latter is related to Yu et al., Gradient Surgery for Multi-Task Learning,
 NeurIPS 2020. A paper citation is not a software redistribution license.
 
-The inspected local original snapshot and upstream root listing did not supply
-a top-level LICENSE. This package therefore does NOT assign MIT, Apache or any
-other license to inherited code. Authorization and any nested third-party terms
-must be resolved with the rights holders before public distribution. This notice
-is a provenance record, not legal permission or a public-release clearance.
+The DSFN repository contact has explicitly confirmed by email that modification
+and public release of our DSFN-based implementation are permitted with normal
+citation. The correspondence is retained privately by the repository maintainer.
+
+No specific standardized license was designated in that correspondence.
+Accordingly, this repository does not assign an MIT, Apache or other license
+to inherited DSFN code. Original attribution and copyright notices are retained.
+Separately included third-party components, datasets and pretrained weights
+remain subject to their respective terms.
 
 Original code ZIP recorded SHA256:
 060932915605bdea441dd25987fb4f1f1f8f861737b3d0c02753856c575b5084
